@@ -2,6 +2,9 @@
 Project- CodePlayer
 
 A simple website which enables to write, edit and show the output of the provided HTML, CSS, JS to it in a single page.
+
+Live Website linlk -->   https://code-player-101.netlify.app/
+
 The UI of the website is as follows:
 
 
